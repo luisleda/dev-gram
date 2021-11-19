@@ -15,5 +15,5 @@
 <hr> 
 
 
-<div align="center"><p> Neste projeto foi utilizado apenas conhecimentos de HTML E CSS </p> </div>
+<div align="center"><p> Neste projeto foi utilizado apenas conhecimentos de HTML E CSS com flex-box </p> </div>
 <div align="center"><p> Dev. Luís Leda </p> </div>
