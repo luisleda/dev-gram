@@ -9,9 +9,11 @@
 <hr>
 
 <h3>Imagem 2 -  Demonstração da tela de login em dimensões para smartphone : </h3>
-
+<div align="center">
+  
 ![tela principal responsiva ](https://user-images.githubusercontent.com/81451242/142681479-3807fd85-5961-4d45-9577-c61bfd6bfe29.png)
 
+  </div>
 <hr> 
 
 
